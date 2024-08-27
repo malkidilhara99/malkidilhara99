@@ -37,7 +37,7 @@ I am a **Computer Science student** with a passion for continuous learning and p
   
 
 
-## 🔥 Projects
+##  Projects
 
 Here are a few of the projects I've worked on:
 
@@ -49,7 +49,7 @@ Here are a few of the projects I've worked on:
 
 > "Code is like humor. When you have to explain it, it’s bad." – _Cory House_
 
-## 🚀 Connect with Me
+##  Connect with Me
 
 Feel free to reach out if you’re interested in collaborating on a project or just want to chat about tech!
 

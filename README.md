@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=👋Hi!+Welcome; to+my%2C+GitHub+Profile!+I'm+Malki+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%F0%9F%91%8BHi%2C+This+Is+My+GitHub+Profile;I'm+Malki++%E2%9C%A9" width="70%" width="70%" />
+
+
 <br><br>
 </div>
 
@@ -58,6 +60,7 @@ Feel free to reach out if you’re interested in collaborating on a project or j
 
 <img width="25%" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611ovfodjy3x18gfujp1ykppdv4jh4858s4zsigein6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" style="border-radius: 15px;">
 
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ---
 

@@ -60,7 +60,6 @@ Feel free to reach out if you’re interested in collaborating on a project or j
 
 <img width="25%" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611ovfodjy3x18gfujp1ykppdv4jh4858s4zsigein6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" style="border-radius: 15px;">
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ---
 

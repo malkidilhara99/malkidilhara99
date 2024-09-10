@@ -20,8 +20,8 @@ I am a **Computer Science student** with a passion for continuous learning and p
 🚀 Passionate about driving innovation through technology and eager to contribute to impactful projects that make a difference.
 
 ## My Skills
-
 <code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="40" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" alt="spring boot" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
@@ -34,6 +34,9 @@ I am a **Computer Science student** with a passion for continuous learning and p
 <code><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="40" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" alt="postman" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
+
+
   
 
 

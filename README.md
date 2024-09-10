@@ -22,6 +22,7 @@ I am a **Computer Science student** with a passion for continuous learning and p
 ## My Skills
 <code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="40" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="40" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="40" alt="spring boot" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code>
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>

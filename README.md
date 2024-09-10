@@ -14,7 +14,7 @@
 
 I am a **Computer Science student** with a passion for continuous learning and problem-solving. I thrive on coding challenges and enjoy working with a variety of technologies.
 
-🔭 Currently working on full-stack projects.  
+🔭 Currently learning React Js and ASP.Net .  
 🌱 Always learning and exploring new tech stacks.  
 👯 I’m looking to collaborate on exciting projects!  
 🚀 Passionate about driving innovation through technology and eager to contribute to impactful projects that make a difference.

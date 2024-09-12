@@ -14,12 +14,14 @@
 
 I am a **Computer Science student** with a passion for continuous learning and problem-solving. I thrive on coding challenges and enjoy working with a variety of technologies.
 
-🔭 Currently learning React Js and ASP.Net .  
+🔭 Currently learning Next Js and Type Script .  
 🌱 Always on a journey of exploration—constantly learning new tech stacks and keeping up with the latest trends.  
 👯 I’m looking to collaborate on exciting projects!  
 🚀 Passionate about driving innovation through technology and eager to contribute to impactful projects that make a difference.
 
 ## My Skills
+<code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="40" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="40" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="40" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>

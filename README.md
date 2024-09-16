@@ -38,6 +38,7 @@ I am a **Computer Science student** with a passion for continuous learning and p
 <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="40" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" alt="postman" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
+<code><img height="40" alt="tailwindcss" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
 
 
   
